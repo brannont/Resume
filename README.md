@@ -1,4 +1,4 @@
-# my first repository
+# My first repository
 
 I'm a student at Washington State University
 
